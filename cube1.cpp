@@ -880,4 +880,8 @@ setfillcolor(GRAY);
 }
 }
 
+void connect(int id,std::string msg)
+{
+	std::cout<<id<<msg<<endl;
 
+}
